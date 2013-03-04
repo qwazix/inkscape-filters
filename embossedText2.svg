@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="below.svg">
+  <defs
+     id="defs4">
+<filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Makes text look recessed"
+       inkscape:menu="qwazix"
+       inkscape:label="Embossed Text 1"
+       id="filter9598">
+      <feGaussianBlur
+         result="result8"
+         stdDeviation="0.29999999999999999"
+         id="feGaussianBlur9600" />
+      <feOffset
+         result="result11"
+         dy="0.69999999999999996"
+         dx="0.69999999999999996"
+         id="feOffset9602" />
+      <feComposite
+         operator="in"
+         in="SourceGraphic"
+         result="result6"
+         in2="result11"
+         id="feComposite9604" />
+      <feFlood
+         flood-color="rgb(0,0,0)"
+         flood-opacity="0.71297509829619921"
+         in="result6"
+         result="result10"
+         id="feFlood9606" />
+      <feBlend
+         result="result12"
+         in="result6"
+         mode="normal"
+         in2="result10"
+         id="feBlend9608" />
+      <feComposite
+         operator="in"
+         result="result2"
+         in2="SourceGraphic"
+         id="feComposite9610" />
+      <feFlood
+         id="feFlood8924"
+         in="SourceGraphic"
+         result="result14"
+         flood-color="rgb(255,255,255)" />
+      <feOffset
+         dx="0.59999999999999998"
+         dy="0.59999999999999998"
+         id="feOffset8920"
+         in="SourceGraphic"
+         result="result13" />
+      <feComposite
+         id="feComposite8926"
+         result="result16"
+         in2="result13"
+         operator="in"
+         in="result14" />
+      <feComposite
+         id="feComposite8928"
+         in2="result16"
+         in="result2" />
+    </filter>
+  </defs>
+</svg>
